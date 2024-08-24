@@ -1,6 +1,5 @@
 site_name: GSoC 2024 Weekly Report
-repo_name: Weekly Report
-repo_url: https://github.com/StarTrooper08/gsoc24-weekly-report
+repo_url: https://github.com/StarTrooper08/
 nav: 
   - 'GSoC 2024' : 'index.md'
   - Reports: 
