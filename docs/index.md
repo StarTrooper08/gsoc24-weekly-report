@@ -11,7 +11,7 @@ My journey in Open Source and GSoC began in 2023 when I first discovered the [R 
 
 Fast forward to March 17, 2024, when the R Dev Container project was once again listed on the R Project GSoC Idea list. At that moment, I faced a dilemma: should I participate as a mentee for the second time or step up as a co-mentor? Ultimately, I decided to embrace the unique opportunity GSoC offers by allowing individuals to participate as mentees twice.
 
-Following the same process I did in GSoC'23, I carefully reviewed the project description and the [project test case tasks](https://github.com/rstats-gsoc/gsoc2024/wiki/Enhancing-the-R-Dev-Container) outlined for the R Dev Container. I completed the tasks, engaged in meaningful discussions with mentors, prepared my project proposal, and then waited patiently for the results—just as I had done the year before.
+Following the same process I did in GSoC'23, I carefully reviewed the [project description](https://github.com/rstats-gsoc/gsoc2024/wiki/Enhancing-the-R-Dev-Container) and the [project test case tasks](https://github.com/StarTrooper08/r-dev-env-test) outlined for the R Dev Container. I completed the tasks, engaged in meaningful discussions with mentors, prepared my project proposal, and then waited patiently for the results—just as I had done the year before.
 
 And that’s how my Open Source journey truly began!
 
@@ -29,6 +29,13 @@ Latest R Dev Container [Docs](https://contributor.r-project.org/r-dev-env/)
 Heather Turner and  Iain Emsley
 
 ## Weekly Reports
+
+### Community Bonding Period
+<div class="grid cards" markdown>
+- :fontawesome-regular-calendar: __[Week 0]__
+</div>
+
+### Coding Period Begins!
 <div class="grid cards" markdown>
 
 - :fontawesome-regular-calendar: __[Week 1]__
@@ -46,10 +53,13 @@ Heather Turner and  Iain Emsley
 
 </div>
 
+### Project Wrap Up
 <div class="grid cards" markdown>
 - :fontawesome-regular-calendar: __[Week 13]__
 </div>
 
+
+[Week 0]: reports/week_0.md
 [Week 1]: reports/week_1.md
 [Week 2]: reports/week_2.md
 [Week 3]: reports/week_3.md
@@ -64,3 +74,4 @@ Heather Turner and  Iain Emsley
 [Week 12]: reports/week_12.md
 [Week 13]: reports/week_13.md
 
+### 
