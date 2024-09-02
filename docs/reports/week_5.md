@@ -56,6 +56,7 @@ The mkdocs material has option to show repo info in navbar, so I did config in m
 
 Documentation split into set of markdown files. These are used to create the documentation website https://contributor.r-project.org/r-dev-env/ and the user-focused pages can be accessed directly within the codespace, linked from an index that opens when the codespace first starts. 
 New documentation pages/topics:
+
 - Restarting and stopping the codespace
 - Live Share
 - Local Setup
