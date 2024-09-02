@@ -15,6 +15,7 @@ The actions weren't running when changes were made to the VERSION file, so I upd
 Due to the "Rsync server Connection Limit Reached" error, the R build process would occasionally halt. To address this, I added information about the issue in the documentation to help others understand and troubleshoot the problem if they encounter it.
 
 **Issue Number** : [#139](https://github.com/r-devel/r-dev-env/issues/139)
+
 **Pull Request** : [#152](https://github.com/r-devel/r-dev-env/pull/152)
 
 
@@ -27,4 +28,5 @@ R is built upon C, C++, and Fortran, so we initially considered installing Valgr
 Instead, we added information about Valgrind’s availability to the documentation to ensure users are aware of this tool's presence and functionality within the Docker environment.
 
 **Issue Number** : [#101](https://github.com/r-devel/r-dev-env/issues/101)
-**Pull Request** : [#154](https://github.com/r-devel/r-dev-env/pull/154), [#163](https://github.com/r-devel/r-dev-env/pull/163)
+
+**Pull Request** : [#154](https://github.com/r-devel/r-dev-env/pull/154), [#163](https://github.com/r-devel/r-dev-env/pull/163)(24/July)

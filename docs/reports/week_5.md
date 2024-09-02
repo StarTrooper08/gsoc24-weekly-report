@@ -6,7 +6,7 @@ June 24 - June 29
 
 While implementing choice validation in the which_r script, I decided to enhance it further by dynamically detecting and printing the default R version within the R Dev Container. Previously, the script explicitly printed a hardcoded R version, but with this update, it now automatically retrieves the latest default R version.
 
-**Issue Number** : [#134](https://github.com/r-devel/r-dev-env/issues/134)
+**Issue Number** : [#134](https://github.com/r-devel/r-dev-env/issues/134) 
 
 **Pull Request** : [#144](https://github.com/r-devel/r-dev-env/pull/144)
 
@@ -39,6 +39,7 @@ I also updated the Docker build schedule actions to automatically rebuild the Do
 Added documentation on using Live Share, as this feature is not available in R Studio. Having comprehensive docs on Live Share usage is a valuable addition for collaborative work within the R Dev Container.
 
 **Issue Number** : [#135](https://github.com/r-devel/r-dev-env/issues/135)
+
 **Pull Request** : [#138](https://github.com/r-devel/r-dev-env/pull/138)
 
 
@@ -47,6 +48,7 @@ Added documentation on using Live Share, as this feature is not available in R S
 The mkdocs material has option to show repo info in navbar, so I did config in mkdocs to show project release version in navbar.
 
 **Issue Number** : [#130](https://github.com/r-devel/r-dev-env/issues/130)
+
 **Pull Request** : [#141](https://github.com/r-devel/r-dev-env/pull/141)
 
 
