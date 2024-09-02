@@ -75,7 +75,7 @@ Heather Turner and  Iain Emsley
 [Week 13]: reports/week_13.md
 
 
-### Community Collaboration and Participation
+## Community Collaboration and Participation
 
 Beyond collaborating with my mentors during GSoC, I had the opportunity to present the project to other R Project members during the RCWG meeting, which is the monthly gathering of R contributors. The R Dev Container received positive feedback from the community—many members found it helpful, provided valuable suggestions for improvement, and even contributed directly to the project.
 
