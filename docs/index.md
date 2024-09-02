@@ -74,4 +74,13 @@ Heather Turner and  Iain Emsley
 [Week 12]: reports/week_12.md
 [Week 13]: reports/week_13.md
 
-### 
+
+### Community Collaboration and Participation
+
+Beyond collaborating with my mentors during GSoC, I had the opportunity to present the project to other R Project members during the RCWG meeting, which is the monthly gathering of R contributors. The R Dev Container received positive feedback from the community—many members found it helpful, provided valuable suggestions for improvement, and even contributed directly to the project.
+
+One of the highlights was seeing the R Dev Container in action during R Dev Day in July 2024, where developers used it to contribute to the R codebase. An excellent example of its practical application is showcased in a blog post by Di Cook, which you can find [here](https://www.dicook.org/posts/2024-07-14-r-devel/).
+
+I am grateful to my mentors Heather Turner and Iain Emsley for encouraging me to participate in the LatinR event and for guiding me through the process of reviewing my talk abstract. This will be my first time presenting at a large community event organized by the R Project, and I am excited about the opportunity.
+
+A special thanks to Di Cook, Elio Campitelli, and Lorena Abad Crespo for their invaluable contributions to the R Dev Container project.
