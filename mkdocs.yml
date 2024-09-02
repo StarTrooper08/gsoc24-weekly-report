@@ -3,7 +3,21 @@ repo_url: https://github.com/StarTrooper08/
 nav: 
   - 'GSoC 2024' : 'index.md'
   - Reports: 
+      - Week 0: 'reports/week_0.md'
       - Week 1: 'reports/week_1.md'
+      - Week 2: 'reports/week_2.md'
+      - Week 3: 'reports/week_3.md'
+      - Week 4: 'reports/week_4.md'
+      - Week 5: 'reports/week_5.md'
+      - Week 6: 'reports/week_6.md'
+      - Week 7: 'reports/week_7.md'
+      - Week 8: 'reports/week_8.md'
+      - Week 9: 'reports/week_9.md'
+      - Week 10: 'reports/week_10.md'
+      - Week 11: 'reports/week_11.md'
+      - Week 12: 'reports/week_12.md'
+      - Week 13: 'reports/week_13.md'
+
 theme:
   name: material
   features:
