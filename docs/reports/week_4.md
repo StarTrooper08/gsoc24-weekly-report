@@ -95,6 +95,10 @@ echo "R terminal will now use version: $selected_version"
 - Updating VS Code: The script updates the VS Code settings file with the selected R version so that new terminals use the correct version.
 - Confirmation: It then confirms which R version will be used in new R terminals.
 
+
+-----------------------
+
+
 ## Use function vs script for set_build_r
 
 In this issue, the set_build_R script was encountering permission issues, which prevented it from functioning properly. To resolve this, the script was added to .bashrc, and it was restructured into a function to make it more readable and maintainable.
